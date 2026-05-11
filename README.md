@@ -18,8 +18,6 @@ Server:
 Client:
 <img width="862" height="666" alt="Screenshot 2026-05-11 154552" src="https://github.com/user-attachments/assets/7447f188-fd23-489a-b34e-20a60385da44" />
 
-
-
 Server:
 <img width="853" height="473" alt="Screenshot 2026-05-11 154636" src="https://github.com/user-attachments/assets/c65bcaab-e952-4c8b-82b4-2ec08e2f92ec" />
 
